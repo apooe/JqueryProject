@@ -1,1 +1,1 @@
-# JqueryProject
+# Jquery project
